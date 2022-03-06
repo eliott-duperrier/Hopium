@@ -1,0 +1,8 @@
+.button-grey{
+	background-color: rgb(220, 220, 220);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: black;
+	font-weight: bold;
+	font-family: Roboto;
+}
